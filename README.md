@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![blog card preview shots](https://github.com/user-attachments/assets/a43d8eb2-5a49-4292-a2b5-7a7b42fdaa1d)
 
 ### Links
 
