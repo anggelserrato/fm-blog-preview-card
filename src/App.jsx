@@ -18,7 +18,7 @@ function App() {
               Learning
             </span>
             <time
-              datetime="2023-12-21"
+              dateTime="2023-12-21"
               className="text-[12px] leading-[150%] tracking-normal sm:text-[14px]"
             >
               Published 21 Dec 2023
