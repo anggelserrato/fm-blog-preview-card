@@ -8,29 +8,7 @@
   --font-figtree: 'Figtree', ui-sans-serif, system-ui, sans-serif;
   --spacing-card-xs: 4px; /* 50 en figma */
   --spacing-card-sm: 12px; /* 150 en figma */
-  --spacing-card-md: 16px; /* 200 en figma */
-  /*
-  text 1
-  extra bold
-  24px 150 line h
-  0px letter spacing
-  
-  text 2
-  medium
-  16px 150 line h
-  0px letter spacing
-
-  text 3
-  medium
-  14px 150 line h
-  0px letter spacing
-
-  text 3 bold
-  extra bold
-  14px 150 line h
-  0px letter spacing
-
-  */
+  --spacing-card-md: 24px; /* 200 en figma */
 }
 
 @layer base {
