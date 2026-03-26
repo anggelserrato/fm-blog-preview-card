@@ -47,10 +47,10 @@ Users should be able to:
 
 ### Useful resources
 
-- <a href="https://www.shots.so" target="_blank" rel="noopener noreferrer">Shots.so</a> - A fantastic tool for creating beautiful and professional screenshots of your websites.
-- <a href="https://www.squoosh.app" target="_blank" rel="noopener noreferrer">Squoosh.app</a> - An amazing image optimizer that helps you compress images without losing quality, making your site load faster.
+- [Shots.so](https://shots.so/) - A fantastic tool for creating beautiful and professional screenshots of your websites.
+- [Squoosh.app](https://squoosh.app/) - An amazing image optimizer that helps you compress images without losing quality, making your site load faster.
 
 ## Author
 
-- Website - <a href="https://www.serrato.me" target="_blank" rel="noopener noreferrer">serrato.me</a>
-- Frontend Mentor - <a href="https://www.frontendmentor.io/profile/anggelserrato" target="_blank" rel="noopener noreferrer">@anggelserrato</a>
+- Website - [serrato.me](https://www.serrato.me)
+- Frontend Mentor - [@anggelserrato](https://www.frontendmentor.io/profile/anggelserrato)
