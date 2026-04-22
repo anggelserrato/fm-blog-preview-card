@@ -6,9 +6,9 @@
   --color-gray-500: hsl(0, 0%, 42%);
   --color-gray-950: hsl(0, 0%, 7%);
   --font-figtree: 'Figtree', ui-sans-serif, system-ui, sans-serif;
-  --spacing-card-xs: 4px; /* 50 en figma */
-  --spacing-card-sm: 12px; /* 150 en figma */
-  --spacing-card-md: 24px; /* 200 en figma */
+  --spacing-card-xs: 4px;
+  --spacing-card-sm: 12px;
+  --spacing-card-md: 24px;
 }
 
 @layer base {
