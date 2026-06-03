@@ -4,7 +4,7 @@ import avatar from './assets/image-avatar.webp';
 function App() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center px-4">
-      <article className="group max-w-81.75 cursor-pointer rounded-[20px] border border-black bg-white p-card-md shadow-[8px_8px_0_0_#000000] transition-all duration-300 hover:shadow-[16px_16px_0_0_#000000] sm:max-w-sm">
+      <article className="group max-w-81.75 cursor-pointer rounded-[20px] border border-black bg-white p-card-lg shadow-[8px_8px_0_0_#000000] transition-all duration-300 hover:shadow-[16px_16px_0_0_#000000] sm:max-w-sm">
         <header>
           <figure>
             <img
@@ -13,8 +13,8 @@ function App() {
               className="h-50 w-full rounded-[10px] object-cover"
             />
           </figure>
-          <div className="flex flex-col gap-card-sm pt-card-md pb-card-md">
-            <span className="w-fit rounded-md bg-yellow-100 px-card-sm py-card-xs text-preset-3-bold sm:text-[14px]">
+          <div className="flex flex-col gap-card-md pt-card-lg pb-card-lg">
+            <span className="w-fit rounded-md bg-yellow-100 px-card-md py-card-xs text-preset-3-bold sm:text-[14px]">
               Learning
             </span>
             <time dateTime="2023-12-21" className="text-preset-3">
@@ -34,7 +34,7 @@ function App() {
             </p>
           </div>
         </header>
-        <footer className="flex flex-row items-center gap-card-sm">
+        <footer className="flex flex-row items-center gap-card-md">
           <img src={avatar} alt="Image of Greg Hooper" className="h-8 w-8" />
           <p className="text-preset-3-bold text-[0.875rem]">Greg Hooper</p>
         </footer>
